@@ -54,8 +54,6 @@ iot_operation_suggest/
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 ├── corpus/                   # Data directory
-│   ├── train_data.jsonl        # Merged training data
-│   └── eval_data.jsonl         # Merged evaluation data
 ├── src/                      # Source code directory
 │   ├── __init__.py
 │   ├── data/                 # Data processing module
